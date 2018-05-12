@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '42076'
     url: http://www.gutenberg.org/2009/agents/42076
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43221#The-Ceramic-ArtA-Compendium-of-The-History-and-Manufacture-of-Pottery-and-Porcelain
 gutenberg_issued: '2013-07-15'
 gutenberg_type: Text
 identifiers:
